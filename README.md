@@ -2,7 +2,7 @@
 
 Modélisation matérielle du chiffrement par flux **ChaCha20** (RFC 7539) en **SystemVerilog**, simulée et validée sous **ModelSim** à l'aide de testbenchs dédiés à chaque module.
 
-📄 Rapport complet : [`docs/ChaCha20_rapport.pdf`](docs/ChaCha20_rapport.pdf)
+Rapport complet : [`docs/ChaCha20_rapport.pdf`](docs/ChaCha20_rapport.pdf)
 
 ## Principe
 
