@@ -32,7 +32,7 @@ La simulation du top-level produit les impulsions attendues de `cipher_valid_o`,
 
 | Quarter round | Simulation complète |
 |---|---|
-| ![Quarter round](report/figures/quarterroundtb.png) | ![Top-level](report/figures/testbenchtop.png) |
+| ![Quarter round](docs/figures/quarterroundtb.png) | ![Top-level](docs/figures/testbenchtop.png) |
 
 ## Structure du dépôt
 
